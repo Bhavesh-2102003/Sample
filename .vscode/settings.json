@@ -1,0 +1,5 @@
+{
+    "prettier.endOfLine": "auto",
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true
+}
